@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "525321593183",
+    "firebase_url": "https://sharethebook-53749.firebaseio.com",
+    "project_id": "sharethebook-53749",
+    "storage_bucket": "sharethebook-53749.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525321593183:android:96ee72a2b4a45a33",
+        "android_client_info": {
+          "package_name": "cl.mac.sharethebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525321593183-bhujom150ggpc8ig6ptn3kj962f1vnov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.mac.sharethebook",
+            "certificate_hash": "550d88e10a90424baa16f4b2513349457f1d7820"
+          }
+        },
+        {
+          "client_id": "525321593183-8bcum3a0t6euaa2iifm81f6m2m6bfl51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd0jCUZEmWpkxQIxxPBKoDJOj2YDvVR7k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525321593183-8bcum3a0t6euaa2iifm81f6m2m6bfl51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
